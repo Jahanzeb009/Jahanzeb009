@@ -6,22 +6,22 @@
 
 ### About Me
 
-Full-stack mobile developer with **5+ years of experience** building cross-platform and native mobile applications, as well as web and backend solutions. I specialize in crafting high-quality, scalable, and user-friendly apps from the ground up — handling everything from UI to server logic.
+Full-stack mobile developer with **5+ years of experience** building cross-platform and native mobile applications, as well as web and backend solutions. I specialize in crafting high-quality, scalable, and user-friendly apps from the ground up, handling everything from UI to server logic.
 
-Currently working as a freelance mobile app developer at **EasySales** (2+ years).
+Currently working as a freelance mobile app developer at **[EasySales](https://www.easytech.com.my/)** (2+ years).
 
-I started my journey as a civil engineer but followed my passion for code — and never looked back!
+I started my journey as a civil engineer but followed my passion for code, and never looked back!
 
 ---
 
 ### 🔭 I'm currently working on
-Freelance mobile & full-stack projects at **EasySales**
+Freelance mobile & full-stack projects at **[EasySales](https://www.easytech.com.my/)**
 
 ### 🌱 I'm currently learning
 **Kotlin** & advanced Flutter patterns for native Android development
 
 ### 👯 I'm looking to collaborate on
-Any interesting mobile or web projects — open-source or commercial, always open to exciting work!
+Any interesting mobile or web projects, open-source or commercial, always open to exciting work!
 
 ### 🤝 I'm looking for help with
 Kotlin and native Android architecture patterns
