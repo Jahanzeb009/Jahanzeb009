@@ -14,6 +14,10 @@ I started my journey as a civil engineer but followed my passion for code, and n
 
 ---
 
+### 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/jahanzeb.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jahanzeb.dev)
+
 ### 🔭 I'm currently working on
 Freelance mobile & full-stack projects at **[EasySales](https://www.easytech.com.my/)**
 
